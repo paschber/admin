@@ -26,3 +26,26 @@ tasks.xml
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#default for NetBeans-Projects
+/nbproject/
+/.idea/
+/.vscode/
+data/doc/
+/application/configs/local.ini
+/application/configs/phinx.yml
+/test/phinx.yml
+/vendor
+/error.log
+/figoregshield.log
+/test/log/
+/test/coverage
+/test/cov
+stripe\.log
+*.log
+.php_cs.cache
+public/jsminmodel/SevModels.min.js
+*.cache
+library/App/.DS_Store
+/data/typescript
+/public/qemu_*
